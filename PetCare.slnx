@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/PetCare.Api/PetCare.Api.csproj" />
+  <Project Path="tests/PetCare.UnitTests/PetCare.UnitTests.csproj" />
+  <Project Path="tests/PetCare.IntegrationTests/PetCare.IntegrationTests.csproj" />
+</Solution>
