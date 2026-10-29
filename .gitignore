@@ -1,0 +1,11 @@
+node_modules/
+frontend/dist/
+**/bin/
+**/obj/
+/work/
+.env
+.env.*
+!.env.example
+secrets.json
+*.user
+*.suo
